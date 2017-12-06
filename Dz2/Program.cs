@@ -112,8 +112,30 @@ namespace Dz2
             bool a = true;
             bool b = false;
             bool c = false;
-
-
+            if (a || b)
+            {
+                Console.WriteLine("true");
+            }
+            else
+            {
+                Console.WriteLine("false");
+            }
+            if (a && b)
+            {
+                Console.WriteLine("true");
+            }
+            else
+            {
+                Console.WriteLine("false");
+            }
+            if (b || c)
+            {
+                Console.WriteLine("true");
+            }
+            else
+            {
+                Console.WriteLine("false");
+            }
         }
 
         private static void Task5()
