@@ -1,0 +1,6 @@
+c:\users\балакинаа\documents\visual studio 2017\Projects\Dz2\Dz2\bin\Debug\Dz2.exe.config
+c:\users\балакинаа\documents\visual studio 2017\Projects\Dz2\Dz2\bin\Debug\Dz2.exe
+c:\users\балакинаа\documents\visual studio 2017\Projects\Dz2\Dz2\bin\Debug\Dz2.pdb
+c:\users\балакинаа\documents\visual studio 2017\Projects\Dz2\Dz2\obj\Debug\Dz2.exe
+c:\users\балакинаа\documents\visual studio 2017\Projects\Dz2\Dz2\obj\Debug\Dz2.pdb
+C:\Users\БалакинаА\Documents\Visual Studio 2017\Projects\Dz2\Dz2\obj\Debug\Dz2.csprojResolveAssemblyReference.cache
